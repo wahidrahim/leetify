@@ -6,3 +6,5 @@ To install and test:
 yarn
 yarn test
 ```
+
+Or, on [repl.it](https://repl.it/github/wahidrahim/leetify) - just hit "run"!
