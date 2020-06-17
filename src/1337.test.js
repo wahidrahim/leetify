@@ -1,5 +1,4 @@
 import leetify from './1337';
-import { CHAR } from 'xmlchars/xml/1.0/ed5';
 
 const CHAR_MAP = {
   a: 4,
